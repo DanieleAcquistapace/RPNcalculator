@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1664272319 source:c:\users\ricky.girolo\desktop\rpncodeblocks\buffer.c
+
+1664273224 source:c:\users\ricky.girolo\desktop\rpncodeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1664272477 source:c:\users\ricky.girolo\desktop\rpncodeblocks\stack.c
+
+1664272918 source:c:\users\ricky.girolo\desktop\rpncodeblocks\getop.c
+	<ctype.h>
+	<stdio.h>
+
+1664272940 source:c:\users\ricky.girolo\desktop\rpncodeblocks\rpn.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+
